@@ -1,5 +1,5 @@
 # first-course-game
-It is a game that was created to complete my university home task in programming-2 in 2018
+It is a game that was created to complete my university home task in programming-2 in 2018. The game was created by using SFML.
 
 # Technical task
 ## ua
